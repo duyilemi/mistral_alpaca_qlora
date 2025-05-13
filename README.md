@@ -1,6 +1,6 @@
 # Mistral-7B-Alpaca QLoRA Fine-Tuning (Colab Version)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/mistral-alpaca-qlora/blob/main/mistral_finetuning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ERT9SK0SdqKHQF7fD7lWR894SDZMMiu5?usp=sharing)
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Hub-blue)](https://huggingface.co/duyilemi/mistral-alpaca-qlora)
 
 ## Overview
@@ -25,7 +25,7 @@ Prompt: "Explain quantum entanglement in simple terms."
 Generated: "Quantum entanglement is a phenomenon in which two or more particles are linked in such a way that the quantum state of each particle cannot be described independently of the others, even when the particles are separated by a large distance." 
 
 Prompt: "How to make a perfect omelette?"
-Generated: "1. To make a perfect omelette, follow these steps: 1. Crack the eggs into a bowl and whisk them until they are well combined. 2. Heat a non-stick pan over medium heat" 
+Generated: "To make a perfect omelette, follow these steps: 1. Crack the eggs into a bowl and whisk them until they are well combined. 2. Heat a non-stick pan over medium heat" 
 ```
 
 ## How to Use
